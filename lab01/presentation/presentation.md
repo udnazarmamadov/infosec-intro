@@ -64,8 +64,6 @@ section-titles: true
 
 ## Установка системы
 
-![Создание пользователя](image/08.png){ #fig:008 width=70% height=70% }
-
 ## Первый запуск
 
 ![Запущенная система](image/09.png){ #fig:009 width=70% height=70% }
