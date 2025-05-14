@@ -2,7 +2,7 @@
 # Front matter
 title: "Отчёт по лабораторной работе №7"
 subtitle: "Шифр гаммирования"
-author: "Жапаров Алишер Дастанбекович"
+author: "Назармамадов Умед Джамшедович"
 
 # Generic otions
 lang: ru-RU
