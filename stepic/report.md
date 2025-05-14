@@ -22,31 +22,31 @@
 * **1.1 Как работает интернет: базовые сетевые протоколы**
 
 ```markdown
-![TCP-пакет](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/1.png)
+![TCP-пакет](./screenshots/1.png)
 *Этот снимок демонстрирует структуру TCP-пакета в Wireshark, чтобы показать основы обмена данными в сети.*
 
-![ARP-запрос](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/2.png)
+![ARP-запрос](./screenshots/2.png)
 *Выбран для иллюстрации ARP-запроса и формирования таблицы сопоставления MAC/IP-адресов.*
 
-![DNS-разрешение](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/3.png)
+![DNS-разрешение](./screenshots/3.png)
 *Пример DNS-запроса и ответа, показывающий, как происходит разрешение доменных имён.*
 
-![ICMP-ping](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/4.png)
+![ICMP-ping](./screenshots/4.png)
 *Иллюстрация работы ICMP (ping) для проверки доступности узла в сети.*
 
-![HTTP-запрос](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/5.png)
+![HTTP-запрос](./screenshots/5.png)
 *HTTP-запрос к веб-серверу с отображением заголовков и кода ответа.*
 
-![TLS-сессия](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/6.png)
+![TLS-сессия](./screenshots/6.png)
 *Показан процесс установления TLS-сессии (HTTPS) для защищённого соединения.*
 
-![HTTP-заголовки](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/7.png)
+![HTTP-заголовки](./screenshots/7.png)
 *Разбор HTTP-заголовков запроса и ответа на конкретном примере.*
 
-![Traceroute](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/8.png)
+![Traceroute](./screenshots/8.png)
 *Результат трассировки маршрута (traceroute), демонстрирующий hops между узлами.*
 
-![Фильтрация трафика](C:/Users/umedn/OneDrive/Рабочий%20стол/screenshots/9.png)
+![Фильтрация трафика](./screenshots/9.png)
 *Анализ с помощью фильтров в Wireshark для выделения трафика конкретного протокола.*
 ```
 
