@@ -3,8 +3,7 @@
 lang: ru-RU
 title: "Индивидуальный проект - этап 3"
 subtitle: "Использование Hydra"
-author: "Жапаров Алишер Дастанбекович"
-
+author: "Назармамадов Умед Джамшедович"
 # Formatting
 toc-title: "Содержание"
 toc: true # Table of contents
