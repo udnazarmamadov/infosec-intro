@@ -3,7 +3,7 @@
 lang: ru-RU
 title: "Индивидуальный проект - этап 5"
 subtitle: "Использование BurpSuite"
-author: "Жапаров Алишер Дастанбекович"
+author: "Назармамадов Умед Джамшедович"
 
 # Formatting
 toc-title: "Содержание"
