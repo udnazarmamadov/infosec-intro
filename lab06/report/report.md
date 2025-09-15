@@ -2,7 +2,7 @@
 # Front matter
 title: "Отчёт по лабораторной работе №6"
 subtitle: "Знакомство с SELinux"
-author: "Жапаров Алишер Дастанбекович"
+author: "Назармамадов Умед Джамшедович"
 
 # Generic otions
 lang: ru-RU
