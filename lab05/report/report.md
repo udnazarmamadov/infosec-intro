@@ -161,7 +161,6 @@ chmod 700 /home/guest/readfile.c
 
 19. Проверили, может ли программа readfile прочитать файл /etc/shadow
 
-![результат программы readfile](image/07.png){ #fig:007 width=70% height=70%}
 
 ## Исследование Sticky-бита
 
@@ -247,7 +246,6 @@ chmod +t /tmp
 exit
 ```
 
-![исследование Sticky-бита](image/08.png){ #fig:008 width=70% height=70%}
 
 
 # Выводы
